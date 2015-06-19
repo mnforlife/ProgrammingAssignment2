@@ -31,3 +31,5 @@ cacheSolve <- function(x, ...) { ##cacheSolve is the funciton x
 
 
 
+
+
